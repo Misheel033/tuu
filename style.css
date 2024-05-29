@@ -1,0 +1,37 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: arial, helvetica, sans-serif;
+  overflow: hidden;
+}
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  padding: 0 4rem;
+}
+.page a {
+  text-decoration: none;
+  background-color: aliceblue;
+  padding: 8px 30px;
+  border-radius: 8px;
+  color: cadetblue;
+}
+#page-1 {
+  background: url(16x9\ Genghis\ Khan\ Statue\ complex.jpg) no-repeat center
+    center/cover;
+}
+#page-2 {
+  background: url(Baga_Tvrgenii_Khurkheree3.jpg) no-repeat center center/cover;
+}
+#page-3 {
+  background: url(Chuluut-5.jpg) no-repeat center center/cover;
+}
+#page-4 {
+  background: url(Taikhar\ Rock6.jpg) no-repeat center center/cover;
+}
+#page-5 {
+  background: url(Khalkh\ Gol-2.jpg) no-repeat center center/cover;
+}
